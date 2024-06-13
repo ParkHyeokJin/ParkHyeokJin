@@ -26,7 +26,15 @@ Here are some ideas to get you started:
 |---|---|---|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java"  alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>|
 
+### Best frameworks and main libraries for Spring:
+|Springboot|
+|---|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|
 
+### My tools for Data Manipulation:
+| MySQL | Oracle | Redis |
+|---|---|---|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/>|
 
 </div>
 
