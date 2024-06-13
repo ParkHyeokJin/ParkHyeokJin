@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 |<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java"  alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>|
 
 ### Best frameworks and main libraries for Spring:
-| Springboot | Kafka | RabbitMQ | Junit | Mokito |
+| Springboot | Kafka | RabbitMQ | Junit | Mockito |
 |---|---|---|---|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="Junit"  alt="Junit" width="55" height="55"/>|<img src="https://github.com/ParkHyeokJin/kafkaServerExam/assets/19565772/dad67e32-77c1-4f3c-870b-b52689bec9a4" title="Mokito"  alt="Mokito" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="Junit"  alt="Junit" width="55" height="55"/>|<img src="https://github.com/ParkHyeokJin/kafkaServerExam/assets/19565772/038934d4-3add-401b-9109-d547fea012cb" title="Mokito"  alt="Mokito" width="55" height="55"/>|
 
 ### My tools for Data Manipulation:
 | MySQL | Oracle | Redis |
