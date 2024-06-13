@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/ParkHyeokJin/ParkHyeokJin/assets/19565772/9be6c138-7176-492f-bade-4f45264fef93" alt="snake"/>
 </p>
+
