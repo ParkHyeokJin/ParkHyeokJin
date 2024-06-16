@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 |<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java"  alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>|
 
 ### Best frameworks and main libraries for Spring:
-| Springboot | Kafka | RabbitMQ |
-|---|---|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/>|
+| Springboot | Kafka | RabbitMQ | gRpc |
+|---|---|---|---|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRpc"  alt="gRpc" width="55" height="55"/>|
 
 ### My tools for Data Manipulation:
 | MySQL | Oracle | Redis |
