@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Best frameworks and main libraries for Spring:
 | Springboot | Kafka | RabbitMQ | gRpc |
 |---|---|---|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRpc"  alt="gRpc" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" title="gRpc"  alt="gRpc" width="55" height="55"/>|
 
 ### My tools for Data Manipulation:
 | MySQL | Oracle | Redis |
